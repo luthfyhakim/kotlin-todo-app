@@ -5,7 +5,3 @@
 produktivitas, kepuasan developer, dan keamanan kode. dalam project ini kita akan membuat aplikasi todolist dengan teknologi Retrofit dan Okhttp serta implementasi 
 design Nested RecylerView.
 .*
-
-## Source Code
-- 
-
